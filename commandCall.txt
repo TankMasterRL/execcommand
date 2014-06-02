@@ -1,4 +1,0 @@
-﻿var execCommand = require("/home/pi/nodejs/execCommand/execCommand.js");
-var command = execCommand("cat /sys/class/thermal/thermal_zone0/temp");
-console.log(command);
-console.log(execCommand.execute("/sys/class/thermal/thermal_zone0/temp"))
