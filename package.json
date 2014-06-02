@@ -1,11 +1,11 @@
 {
   "name": "execcommand",
-  "version": "0.0.13",
+  "version": "0.0.14",
   "description": "Executes a system command via the child_process module.",
   "main": "execcommand.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "install": "echo \"Installed! Test by executing: \nvar execCommand = require(\"*path*/execcommand.js\");\nconsole.log(execcommand(\"ls -al\"));\" && exit 1"
+    "install": "echo \"Installed! Test by executing the example at NPM or GitHub\" && exit 1"
   },
   "dependencies": {
     "execsync": "0.0.x"
