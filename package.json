@@ -1,6 +1,6 @@
 {
   "name": "execcommand",
-  "version": "0.0.1",
+  "version": "0.0.11",
   "description": "Executes a system command via the child_process module.",
   "main": "execcommand.js",
   "scripts": {
