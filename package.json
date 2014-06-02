@@ -1,0 +1,34 @@
+{
+  "name": "execCommand",
+  "version": "0.0.1",
+  "description": "Executes a system command via the child_process module.",
+  "main": "execCommand.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "install": "Installed! Test by executing: \nvar execCommand = require(\"*path*/execCommand.js\");\nconsole.log(execCommand(\"ls .al\")"
+  },
+  "dependencies": {
+    "execsync": "0.0.x"
+  },
+  "engines": {
+    "node": "0.10.x"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/TankMasterRL/execCommand.js"
+  },
+  "keywords": [
+    "execute",
+    "command",
+    "exec",
+    "sync",
+    "execsync"
+  ],
+  "author": "Robin Larsson",
+  "license": "BSD-3-Clause",
+  "bugs": {
+    "url": "https://github.com/TankMasterRL/execCommand.js/issues"
+  },
+  "homepage": "https://github.com/TankMasterRL/execCommand.js",
+  "preferGlobal": "true"
+}
