@@ -26,5 +26,5 @@ if (execSync !== null)
 }
 else {
 	console.log("The required dependencies are not installed!");
-	console.log("execsync: %s", execsync !== null ? "Installed" : "NOT INSTALLED");
+	console.log("execsync: %s", execSync !== null ? "Installed" : "NOT INSTALLED");
 }
