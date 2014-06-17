@@ -1,4 +1,4 @@
-execCommand.js [![NPM version](https://badge.fury.io/js/execcommand.svg)](http://badge.fury.io/js/execcommand)
+execCommand [![NPM version](https://badge.fury.io/js/execcommand.svg)](http://badge.fury.io/js/execcommand)
 ==============
 
 A very simple wrapper for executing a system command in NodeJS, synchronously!
